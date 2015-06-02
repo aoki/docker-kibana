@@ -1,4 +1,3 @@
-# FII
 # Kibana is served by a back end server. This controls which port to use.
 port: 5601
 
